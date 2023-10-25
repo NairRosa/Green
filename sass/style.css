@@ -1,0 +1,271 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+.body {
+  background-color: #376025;
+}
+
+.logo {
+  width: 100px;
+  margin-left: 0px;
+  margin-right: 20px;
+}
+
+.header {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.container00 {
+  min-height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.arrowDown {
+  display: inline-block;
+  width: 90px;
+  padding-top: 50px;
+  margin-top: 5px;
+}
+
+.container00.container01 {
+  background-image: url(../img/background.png);
+}
+.container00.container02 {
+  background-image: url(../img/home/lixo-eletronico2.jpg);
+}
+.container00.container03 {
+  background-image: url(../img/background.png);
+}
+.container00.container04 {
+  background-image: url(../img/home/lixo-eletronico.jpg);
+}
+
+.container-title{
+  display: flex;
+  align-content: center;
+  align-items: center;
+  position: center;
+  flex-direction: column;
+  margin-top: 100px;
+  margin-bottom: -100px;
+}
+
+.titlePadding {
+  padding-top: 200px;
+}
+
+#lauchComing {
+  font-size: 30px;
+  padding-top: 20px;
+}
+
+.shortTitle {
+  width: 550px;
+  font-weight: 200;
+  margin-bottom: -25px;
+}
+
+.mediumTitle {
+  width: 650px;
+  margin-bottom: -25px;
+}
+
+#button {
+  width: 180px;
+  height: 60px;
+}
+
+.footer {
+  background-color: #376025;
+  width: 100%;
+  height: 90px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 27px;
+}
+
+.footer a {
+  text-decoration: none;
+  color: white;
+}
+
+.copyOBC {
+  color: black;
+}
+
+.container00.container05 {
+  background-image: url(../img/pessoal/lixo-eletronico3.jpg);
+}
+.container00.container06 {
+  background-image: url(../img/pessoal/00.png);
+}
+.container00.carrossel01 {
+  background-image: url(../img/pessoal/1.png);
+}
+.container00.carrossel02 {
+  background-image: url(../img/pessoal/2.png);
+}
+.container00.carrossel03 {
+  background-image: url(../img/pessoal/3.png);
+}
+.container00.carrossel04 {
+  background-image: url(../img/pessoal/4.png);
+}
+.container00.carrossel05 {
+  background-image: url(../img/pessoal/5.png);
+}
+.container00.container07 {
+  background-image: url(../img/pessoal/6.png);
+}
+
+#lauchComingFalcon {
+  text-align: center;
+  padding-right: 20px;
+  font-size: 82px;
+  font-weight: 500;
+}
+
+.shortTitleDescription {
+  text-align: center;
+}
+
+.numbers {
+  background-color: #376025;
+}
+
+.titleNumb {
+  font-size: 74px;
+  padding-top: 32px;
+  font-weight: 400;
+}
+
+.subTitleNumb {
+  font-size: 24px;
+}
+
+.subTitleOvewView {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+}
+
+.shortTitleIntro {
+  font-size: 22px;
+  width: 640px;
+  line-height: 50px;
+  padding-bottom: 300px;
+}
+
+#overViewPosition {
+  width: 500px;
+  margin-left: 13%;
+  padding-top: 15%;
+}
+
+.downloadDesc {
+  background-color: #376025;
+  height: 650px;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.downloadDesc a {
+  text-decoration: none;
+  color: black;
+}
+
+.downloadDesc .buttonsDesc {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 10px;
+}
+
+.downloadDesc button {
+  width: 280px;
+  height: 70px;
+}
+
+.carousselText {
+  background-color: #376025;
+}
+
+.container00.container08 {
+  background-image: url(../img/corporativo/environmental-protection.jpg);
+}
+.container00.container09 {
+  background-image: url(//02.jpg);
+  text-align: center;
+  padding-left: 700px;
+}
+.container00.container10 {
+  background-image: url(//03.jpg);
+}
+.container00.container11 {
+  background-image: url(//04.jpg);
+  text-align: center;
+  padding-left: 650px;
+}
+.container00.container12 {
+  background-image: url(//05.jpg);
+}
+
+#lauchComingTitleHSF {
+  text-align: center;
+  padding-right: 20px;
+  margin-top: -80px;
+  font-size: 100px;
+  font-weight: 500;
+}
+
+.text p {
+  text-decoration: none;
+  color: white;
+}
+
+.text a {
+  text-decoration: none;
+  color: black;
+}
+
+.shortTitleRigth {
+  text-align: start;
+}
+
+#lauchComingRigth {
+  text-align: start;
+  font-size: 20px;
+  font-weight: 200;
+}
+
+#buttonRigth {
+  width: 180px;
+  height: 60px;
+}
+
+.shortTitleHSF {
+  width: 550px;
+  padding-bottom: 42px;
+  margin-bottom: -25px;
+}
+
+#lauchComingHSF {
+  font-size: 20px;
+  font-weight: 200;
+}
+
+#buttonHSF {
+  width: 180px;
+  height: 60px;
+  margin-left: 160px;
+}/*# sourceMappingURL=style.css.map */
