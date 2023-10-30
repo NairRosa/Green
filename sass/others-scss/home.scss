@@ -5,7 +5,7 @@
 }
 
 .body {
-  background-color: #000000;
+  background-color: #376025;
 }
 
 .logo {
@@ -35,17 +35,27 @@
 
 .container00 {
     &.container01 {
-      background-image: url(/Desktop/Bootstrap-OBC/img/home/01.jpg);
+      background-image: url(../img/background.png);
     }
     &.container02 {
-      background-image: url(/Desktop/Bootstrap-OBC/img/home/03.jpg);
+      background-image: url(../img/home/lixo-eletronico2.jpg);
     }
     &.container03 {
-      background-image: url(/Desktop/Bootstrap-OBC/img/home/02.gif);
+      background-image: url(../img/background.png);
     }
     &.container04 {
-      background-image: url(/Desktop/Bootstrap-OBC/img/home/04.jpg);
+      background-image: url(../img/home/lixo-eletronico.jpg);
     }
+}
+
+.container-title{
+  display: flex;
+  align-content: center;
+  align-items: center;
+  position: center;
+  flex-direction: column;
+  margin-top: 100px;
+  margin-bottom: -100px;
 }
 
 .titlePadding {
@@ -75,7 +85,7 @@
 }
 
 .footer {
-  background-color: #000000;
+  background-color: #376025;
   width: 100%;
   height: 90px;
   display: flex;
@@ -90,35 +100,35 @@
 }
 
 .copyOBC {
-  color: gray;
+  color: black;
 }
 
-// Falcon 9
+// Pessoal
 
 .container00 {
   &.container05 {
-    background-image: url(/Desktop/Bootstrap-OBC/img/falcon9/01.jpg);
+    background-image: url(../img/pessoal/lixo-eletronico3.jpg);
   }
   &.container06 {
-    background-image: url(/Desktop/Bootstrap-OBC/img/falcon9/02.jpg);
+    background-image: url(../img/pessoal/00.png);
   }
   &.carrossel01 {
-    background-image: url(/Desktop/Bootstrap-OBC/img/falcon9/03.jpg);
+    background-image: url(../img/pessoal/1.png);
   }
   &.carrossel02 {
-    background-image: url(/Desktop/Bootstrap-OBC/img/falcon9/04.jpg);
+    background-image: url(../img/pessoal/2.png);
   }
   &.carrossel03 {
-    background-image: url(/Desktop/Bootstrap-OBC/img/falcon9/05.jpg);
+    background-image: url(../img/pessoal/3.png);
   }
   &.carrossel04 {
-    background-image: url(/Desktop/Bootstrap-OBC/img/falcon9/06.jpg);
+    background-image: url(../img/pessoal/4.png);
   }
   &.carrossel05 {
-    background-image: url(/Desktop/Bootstrap-OBC/img/falcon9/07.jpg);
+    background-image: url(../img/pessoal/5.png);
   }
   &.container07 {
-    background-image: url(/Desktop/Bootstrap-OBC/img/falcon9/08.jpg);
+    background-image: url(../img/pessoal/6.png);
   }
 }
 
@@ -134,7 +144,7 @@
 }
 
 .numbers {
-  background-color: #000000;
+  background-color: #376025;
 }
 
 .titleNumb {
@@ -167,7 +177,7 @@
 }
 
 .downloadDesc {
-  background-color: #000000;
+  background-color: #376025;
   height: 650px;
   width: auto;
   display: flex;
@@ -178,7 +188,7 @@
 
 .downloadDesc a {
   text-decoration: none;
-  color: gray;
+  color: black;
 }
 
 .downloadDesc .buttonsDesc {
@@ -197,27 +207,27 @@
   background-color: #000000;
 }
 
-// Human Space Fligth
+// Corporativo
 
 .container00 {
   &.container08 {
-    background-image: url(/Desktop/Bootstrap-OBC/img/humanFlight/01.jpg);
+    background-image: url(../img/corporativo/environmental-protection.jpg);
   }
   &.container09 {
-    background-image: url(/Desktop/Bootstrap-OBC/img/humanFlight/02.jpg);
+    background-image: url();
     text-align: center;
     padding-left: 700px;
   }
   &.container10 {
-    background-image: url(/Desktop/Bootstrap-OBC/img/humanFlight/03.jpg);
+    background-image: url(../img/corporativo/datacenter.png);
   }
   &.container11 {
-    background-image: url(/Desktop/Bootstrap-OBC/img/humanFlight/04.jpg);
+    background-image: url();
     text-align: center;
     padding-left: 650px;
   }
   &.container12 {
-    background-image: url(/Desktop/Bootstrap-OBC/img/humanFlight/05.jpg);
+    background-image: url();
   }
 }
 

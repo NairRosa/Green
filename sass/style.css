@@ -9,8 +9,8 @@
 }
 
 .logo {
-  width: 100px;
-  margin-left: 0px;
+  width: 240px;
+  margin-left: -10px;
   margin-right: 20px;
 }
 
@@ -46,7 +46,7 @@
   background-image: url(../img/home/lixo-eletronico.jpg);
 }
 
-.container-title{
+.container-title {
   display: flex;
   align-content: center;
   align-items: center;
@@ -197,27 +197,27 @@
 }
 
 .carousselText {
-  background-color: #376025;
+  background-color: #000000;
 }
 
 .container00.container08 {
   background-image: url(../img/corporativo/environmental-protection.jpg);
 }
 .container00.container09 {
-  background-image: url(//02.jpg);
+  background-image: url();
   text-align: center;
   padding-left: 700px;
 }
 .container00.container10 {
-  background-image: url(//03.jpg);
+  background-image: url(../img/corporativo/datacenter.png);
 }
 .container00.container11 {
-  background-image: url(//04.jpg);
+  background-image: url();
   text-align: center;
   padding-left: 650px;
 }
 .container00.container12 {
-  background-image: url(//05.jpg);
+  background-image: url();
 }
 
 #lauchComingTitleHSF {
@@ -235,7 +235,7 @@
 
 .text a {
   text-decoration: none;
-  color: black;
+  color: gray;
 }
 
 .shortTitleRigth {
