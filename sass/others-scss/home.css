@@ -9,7 +9,7 @@
 }
 
 .logo {
-  width: 240px;
+  width: 100px;
   margin-left: -10px;
   margin-right: 20px;
 }
@@ -104,25 +104,25 @@
   background-image: url(../img/pessoal/lixo-eletronico3.jpg);
 }
 .container00.container06 {
-  background-image: url(../img/pessoal/00.png);
+  background-image: url(../img/pessoal/00.jpg);
 }
 .container00.carrossel01 {
-  background-image: url(../img/pessoal/1.png);
+  background-image: url(../img/pessoal/01.jpg);
 }
 .container00.carrossel02 {
-  background-image: url(../img/pessoal/2.png);
+  background-image: url(../img/pessoal/02.jpg);
 }
 .container00.carrossel03 {
-  background-image: url(../img/pessoal/3.png);
+  background-image: url(../img/pessoal/03.jpg);
 }
 .container00.carrossel04 {
-  background-image: url(../img/pessoal/4.png);
+  background-image: url(../img/pessoal/04.jpg);
 }
 .container00.carrossel05 {
-  background-image: url(../img/pessoal/5.png);
+  background-image: url(../img/pessoal/05.jpg);
 }
 .container00.container07 {
-  background-image: url(../img/pessoal/6.png);
+  background-image: url(../img/pessoal/07.jpg);
 }
 
 #lauchComingFalcon {
@@ -197,7 +197,7 @@
 }
 
 .carousselText {
-  background-color: #000000;
+  background-color: #376025;
 }
 
 .container00.container08 {
@@ -209,7 +209,7 @@
   padding-left: 700px;
 }
 .container00.container10 {
-  background-image: url(../img/corporativo/datacenter.png);
+  background-image: url(../img/corporativo/tech.jpg);
 }
 .container00.container11 {
   background-image: url();
@@ -217,7 +217,7 @@
   padding-left: 650px;
 }
 .container00.container12 {
-  background-image: url();
+  background-image: url(../img/corporativo/datacenter.jpg);
 }
 
 #lauchComingTitleHSF {
