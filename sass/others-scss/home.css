@@ -100,6 +100,29 @@
   color: black;
 }
 
+.display-buscacep {
+  display: flex;
+  flex-direction: row;
+  margin-top: -300px;
+  justify-content: space-between;
+}
+
+#container-buscacep {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.btn .btnCep {
+  margin: 60px;
+}
+
+.display-buscacep .img {
+  width: 500px;
+  height: 500px;
+  margin-bottom: -150px;
+}
+
 .container00.container05 {
   background-image: url(../img/pessoal/lixo-eletronico3.jpg);
 }
