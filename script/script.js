@@ -30,7 +30,9 @@ function verificarNumero() {
 
             //alert(" Fábrica Cultural Rua Rosalvo Barbosa, ao lado da Igreja São Jorge, na Vila Ruy Barbosa, na Cidade Baixa ")
         } else {
-            estado = "Outro estado";
+            estado = "CEP inválido";
+            endereco = document.getElementById("endereco");
+            exibirEndereco = (document.querySelector("#endereco").innerHTML = estado);
         }
     }
 }
